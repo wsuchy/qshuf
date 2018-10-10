@@ -1,8 +1,7 @@
-// sort algorithm example
-#include <iostream>     // std::cout
-#include <fstream>     // std::cout
-#include <algorithm>    // std::sort
-#include <vector>       // std::vector
+#include <iostream>
+#include <fstream>
+#include <algorithm>
+#include <vector>
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
