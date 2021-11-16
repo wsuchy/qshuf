@@ -6,4 +6,4 @@ It might be used by data scientist when one has gigabytes of data in one file an
 Instead it analyzes the file by looking for places where lines start.
 Then it randomly reads one line from the input and outputs it to stdout.
 
-The only supported newline format is linux (\n)
+The only supported newline format is linux (\n)  
